@@ -1,0 +1,134 @@
+body {
+  overflow: scroll;
+  font-family: Raleway;
+}
+
+.main_title {
+  width: 1600px;
+  margin: 0% auto;
+}
+
+#colorbox {
+  border: 2px solid black;
+  width: 1600px;
+  height: 300px;
+  margin: 0% auto;
+  
+}
+
+h2{
+  margin-left: 10px;
+  
+}
+
+.box {
+  display: inline-block;
+  width: 500px;
+  height: 80px;
+  margin: 15px;
+}
+
+.box p {
+  text-align: center;
+}
+
+#blue {
+  background-color: #111D5E;
+  color: white;
+}
+
+#pink {
+  background-color: #be0370;
+  color: black;
+}
+
+#orange {
+  background-color: #F37121;
+  color: black;
+}
+
+#yellow {
+  background-color: #C0E218;
+  color: black;
+}
+
+#fontbox {
+  border: 2px solid black;
+  width: 1600px;
+  height: 350px;
+  margin: 0 auto;
+  margin-top: 15px;
+  
+}
+
+#textstylebox {
+  border: 2px solid black;
+  width: 1600px;
+  height: 450px;
+  margin: 0 auto;
+  margin-top: 15px;
+  
+}
+
+.ibmplexmonofont, .barlowcondensedfont, .ralewayfont {
+  display: inline-block;
+  width: 500px;
+  height: 200px;
+  margin: 15px;
+
+}
+
+p {
+  text-align: left;
+  margin-left: 0px;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+.ibmflexmonofont p {
+  font-family: rubik, sans-serif;
+}
+
+.barlowcondensedfont p {
+  font-family: roboto, sans-serif;
+}
+
+.ralewayfont p {
+  font-family: raleway, sans-serif;
+}
+
+.ibmplexmonofont h3 {
+  font-family: rubik, sans-serif;
+}
+
+.barlowcondensedfont h3 {
+  font-family: roboto, sans-serif;
+}
+
+.ralewayfont h3 {
+  font-family: raleway, sans-serif;
+}
+
+#textstylebox h1{
+  margin-left: 10px;
+  font-weight: 700;
+  font-size:32px;
+  font-family: Raleway;
+}
+
+#textstylebox h2{
+  margin-left: 10px;
+  font-weight: 500;
+  font-size:24px;
+  font-family: Barlow Condensed;
+}
+#textstylebox p{
+  margin-left: 10px;
+  font-weight: 400;
+  font-size:12px;
+  font-family: IBM Plex Mono;
+}
+
+
